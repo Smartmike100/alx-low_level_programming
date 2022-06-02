@@ -1,16 +1,12 @@
 #include <stdio.h>
 
 /**
+ * main - output a function
  *
- *  * main - return the integal of the function
+ * Description: "Programming is like building a multilingual puzzle
  *
- *   *
+ * Return: Return 0
  *
- *    * Description:use to print "programming is like building a mutilingual puzzle"
- *
- *     *
- *
- *      * Return: value of 0
  *
  */
 
