@@ -1,15 +1,12 @@
 #include "main.h"
 
 /**
+ *main - check the code.
  *
- *print_alphabet - print alphabets a - z ten times
+ *Desription - print alphabets ten times.
  *
- *Description: a function that prints alphabets a - z ten times,
- *followed by a new line.
- *
- *Return: return void
- *
- **/
+ *Return: Always 0.
+ */
 
 void print_alphabet_x10(void)
 {
