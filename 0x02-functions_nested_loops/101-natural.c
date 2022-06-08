@@ -19,9 +19,9 @@ while (i < 1024)
 		total += i;
 	else if (i % 5 == 0)
 		total += i;
-		i++;
+	i++;
 }
-	printf("%d\n", total);
+printf("%d\n", total);
 
 return (0);
 }
