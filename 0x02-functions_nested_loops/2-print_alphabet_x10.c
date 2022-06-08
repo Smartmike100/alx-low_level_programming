@@ -13,18 +13,15 @@
 
 void print_alphabet_x10(void)
 {
-int repeat = 1;
-char alphabets;
+	char c;
+	int count;
 
-while (repeat <= 10)
+	for (count = 0; count < 10; count++)
 	{
-	for (alphabets = 'a'; alphabets <= 'z'; alphabets++)
+		for (c = 'a'; c <= 'z'; c++)
 		{
-		_putchar(alphabets);
+			_putchar(c);
 		}
-	_putchar("\n");
-	repeat++;
+		_putchar('\n');
 	}
 }
-	
-
