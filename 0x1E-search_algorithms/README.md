@@ -1,1 +1,1 @@
-ALX Search algo
+Search Algorithms
